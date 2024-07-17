@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Fourdins
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning javascript
-- 📫 How to reach me @fourdins_ on twitter
+- 📫 How to reach me @fourdins_ on twitter or at dolenzgiordano@gmail.com
 
 <!---
 Fourdins/Fourdins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
